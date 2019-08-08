@@ -1,0 +1,14 @@
+{
+  "name": "otp-temp-auth-for-scalable-downloads",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "@types/jest": "^24.0.17",
+    "@types/node": "^12.6.9",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  }
+}
